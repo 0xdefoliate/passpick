@@ -1,0 +1,20 @@
+[project]
+name = "passpick"
+description = "A picky password picker"
+license = "GPL-3.0-or-later"
+
+version = "2026.5.0"
+
+authors = [
+    { name = "Axel H. Karlsson", email = "git@axelkarlsson.se" },
+    { name = "Developer Dude", email = "devdude437@protonmail.com" }
+]
+
+requires-python = ">= 3.9"
+
+[project.scripts]
+passpick = "passpick:main.main"
+
+[build-system]
+requires = ["setuptools >= 82.0.1"]
+build-backend = "setuptools.build_meta"
