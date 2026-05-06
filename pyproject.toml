@@ -12,6 +12,10 @@ authors = [
 
 requires-python = ">= 3.9"
 
+dependencies = [
+    "build>=1.5.0"
+]
+
 [project.scripts]
 passpick = "passpick:main.main"
 
