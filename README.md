@@ -1,7 +1,7 @@
 # passpick
 
-A boring utility for generating passwords & passphrases, forked and improved substantially over the upstream.  
-I decided to improve upon the source mostly out of boredom.
+A utility for generating passwords & passphrases, forked and improved substantially over the upstream.  
+I decided to improve upon the source mostly for fun.
 
 ## Building
 
